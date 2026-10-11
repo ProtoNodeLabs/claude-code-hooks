@@ -111,4 +111,4 @@ Then reference the compiled `.js` files in your settings.
 
 ---
 
-Built by [ProtoNodeLabs](https://proto-nodelabs.com). MIT licensed.
+Built by [ProtoNodeLabs](https://protonodelabs.com). MIT licensed.
